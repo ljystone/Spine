@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/..">
+        <file>beijing.jpg</file>
+        <file>process_pass.png</file>
+    </qresource>
+</RCC>
